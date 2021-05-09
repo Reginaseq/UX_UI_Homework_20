@@ -1,0 +1,21 @@
+
+
+.body{
+    font-family: url(../https://fonts.gstatic.com);
+  }
+  
+  .navbar{
+        background: #a53f00;
+        
+      }
+  .navbar-brand{
+    padding: 25 rem;
+}
+
+.image-fluid{
+  border: width 100px;
+  max-width: 100%;
+  height: auto;
+}
+
+  
