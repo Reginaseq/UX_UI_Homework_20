@@ -1,0 +1,26 @@
+
+
+.body{
+    font-family: url(../https://fonts.gstatic.com);
+  }
+  
+  .jumbotron {
+    background-image: url("../Images /Case Study pic.png");
+    background-size: cover;
+  }
+
+  .navbar{
+        background: #a53f00;
+        
+      }
+  .navbar-brand{
+    padding: 25 rem;
+}
+
+.image-fluid{
+  border: width 100px;
+  max-width: 100%;
+  height: auto;
+}
+
+  
